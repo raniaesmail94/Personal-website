@@ -1,3 +1,3 @@
 #MY PERSONAL WEBSITE
 
-[I'm an inline-style link](https://www.google.com)
+[My WEBSITE](https://www.google.com)
